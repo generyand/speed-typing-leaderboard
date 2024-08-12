@@ -126,7 +126,7 @@ const data = [
 
   {
     id: 18,
-    name: "Felmar M. Alfonso",
+    name: "Felmar Alfonso",
     email: "alfonsofelmar.16@gmail.com",
     department: "DTP",
     speed: 106,
